@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-• 💼 Currently working at one of the largest tobacco companies in Indonesia as a Software Developer, Data Engineer, Research and Development<br> • 💻 Tech stack: Java (backend) & Angular (frontend)<br> • 🚀 Passionate about Artificial Intelligence and Data Engineering<br> • 📚 Always learning and exploring new technologies in the AI and data space<br> • 🤝 Open to collaboration and projects related to web development, AI, or data pipelines
+• 💼 Currently working at one of the largest tobacco companies in Indonesia as a Software Developer, Data Engineer, Research and Development<br> • 💻 Tech stack: Java (backend), React & Angular (frontend), Python (Data Engineer & AI Engineer)<br> • 🚀 Passionate about Artificial Intelligence and Data Engineering<br> • 📚 Always learning and exploring new technologies in the AI and data space<br> • 🤝 Open to collaboration and projects related to web development, AI, or data pipelines
 
 ## 🌐 Socials:
 
